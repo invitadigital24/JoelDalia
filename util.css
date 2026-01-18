@@ -109,6 +109,20 @@
     background-color: rgb(var(--bg-color));
 }
 
+.bg_marino{
+    background: #000080;
+}
+
+.bg_mar{
+    background: #040447;
+}
+
+
+.bg_blueer{
+    background: #0b0b68;
+}
+
+
 .bg_transparent {
     --bg-color: 255, 0, 0; /* Rojo */
     background-color: rgba(var(--bg-color), 0); /* Completamente transparente */
